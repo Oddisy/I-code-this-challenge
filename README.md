@@ -1,2 +1,18 @@
 # I-code-this-challenge
-This repository consist of daily challenges from i-code-this using html, css, and js 
+
+Compilations of daily challenges from I-code-this.
+Here are the link to each challenge.
+
+
+## Authors
+
+- [@oddisy](https://www.github.com/oddisy)
+
+
+## 🚀 About Me
+I'm anaspiring frontend developer... proficient in html, css currently learning js 
+
+
+## Tech Stack
+
+**Client:** html, css
