@@ -1,0 +1,127 @@
+ *{
+        padding:0;
+        margin:0;
+        box-sizing:border-box;
+    }
+    body{
+        background-color: #1F2937;
+        max-width: 100%;
+    }
+    main{
+       max-width: 60%;
+        height: 650px;
+        margin: 40px auto;
+        background-color:#446C74;
+        padding: 90px 0px;
+        
+        
+    }
+    article{
+        max-width: 45%;
+        height:470px ;
+        background-color: #FFFFFF;
+        border-radius: 7px;
+        margin:0px auto ;
+      box-shadow: -1px 1px 138px -24px rgba(0,0,0,0.75);
+-webkit-box-shadow: -1px 1px 138px -24px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 1px 138px -24px rgba(0,0,0,0.75);
+    }
+    main .article-head{
+        background-color: #F2FCFE;
+padding:30px ;
+border-top-left-radius: 7px;
+border-top-right-radius: 7px;
+    }
+
+    main p{
+       text-align: center; 
+color: #4A717A;
+    }
+    main form{
+        padding: 10px;
+        background-color: #FFFFFF;
+    }
+
+     form  .span-one{
+        color:#487078;
+position: relative;
+bottom: 5px;
+     }
+    input[type="checkbox"]{
+border-radius: 50%;
+width: 20px;
+height: 20px;
+margin-right: 10px;
+    }
+
+    
+ main .con-one{
+padding:20px;
+ }
+
+
+    progress{
+        width:87%;
+        appearance: none;
+        height: 10px;
+
+    }
+
+.progress-one[value]::-webkit-progress-bar{
+    background-color: #F3F3F3;
+    border-radius: 10px;
+}
+.progress-one[value]::-webkit-progress-value{
+     background-color: #99E970;
+     border-radius: 10px;
+}
+
+.progress-two[value]::-webkit-progress-bar{
+    background-color: #F3F3F3;
+    border-radius: 10px;
+}
+.progress-two[value]::-webkit-progress-value{
+     background-color: #FF5F57;
+     border-radius: 10px;
+}
+
+.progress-three[value]::-webkit-progress-bar{
+    background-color: #F3F3F3;
+    border-radius: 10px;
+}
+.progress-three[value]::-webkit-progress-value{
+     background-color: #FF994E;
+     border-radius: 10px;
+}
+ progress + span{
+    position: relative;
+    top:-1px;
+    margin-left: 10px;
+    color:#487078;
+ }
+
+
+
+ button[type="submit"]{
+    border: 1px solid black;
+margin-left: 125px;
+    font-size: 1rem;
+    padding:8px 30px;
+    background-color: #0AB3D3;
+    border-radius: 7px;
+    border: 0.2px solid #E1EFF2;
+    color: #FAFEFD;
+    margin-top: 10px;
+    box-shadow: -1px 1px 69px -24px #BDE5ED;
+-webkit-box-shadow: -1px 1px 69px -24px #BDE5ED;
+-moz-box-shadow: -1px 1px 69px -24px #BDE5ED;
+position: relative;
+top:37px;
+ }
+ hr{
+    opacity: 0.1;
+ }
+ #click{
+    background-color: rgb(255, 255, 255);
+    border: none;
+ }
