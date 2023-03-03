@@ -15,7 +15,7 @@ https://oddisy.github.io/I-code-this-challenge/
 
 
 ## 🚀 About Me
-I'm anaspiring frontend developer... proficient in html, css currently learning js 
+I'm an aspiring frontend developer... proficient in html, css currently learning js 
 
 
 ## Tech Stack
